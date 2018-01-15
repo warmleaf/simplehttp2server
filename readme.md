@@ -10,7 +10,7 @@
 ## Install
 
 ```
-$ npm install --save simplehttp2server
+$ npm install --save wl-simplehttp2server
 ```
 
 

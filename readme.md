@@ -2,6 +2,11 @@
 
 > simplehttp2server serves the current directory on an HTTP/2.0 capable server. This server is for development purposes only.
 
+## Change log
+
+### 2.1.0
+- cancel fetch sh2s when has downloaded
+
 ## Install
 
 ```
